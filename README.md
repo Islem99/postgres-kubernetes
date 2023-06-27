@@ -1,6 +1,8 @@
 # postgres-kubernetes
 
-1 ère étape: Installation de Docker en utilisant la commande illustrée dans l'image ci-dessous
+1 ère étape: Installation de Docker en utilisant les commandes suivantes:
+
+![image](https://github.com/Islem99/postgres-kubernetes/assets/84632827/425848e1-b62a-4adf-ad25-298199b1e92e)
 
 
 2 ème étape: Installation de kubectl en utilisant la commande illustrée dans l'image ci-dessous:
